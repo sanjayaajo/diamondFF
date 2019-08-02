@@ -83,7 +83,7 @@ read -p "╰─#" pil;
 case $pil in
 1) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -91,7 +91,7 @@ python2 FF.py
 
 2) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -99,7 +99,7 @@ python2 FF.py
 
 3) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -107,7 +107,7 @@ python2 FF.py
 
 4) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -115,7 +115,7 @@ python2 FF.py
 
 5) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -123,7 +123,7 @@ python2 FF.py
 
 6) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -131,7 +131,7 @@ python2 FF.py
 
 7) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -139,7 +139,7 @@ python2 FF.py
 
 8) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -147,7 +147,7 @@ python2 FF.py
 
 9) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
@@ -155,7 +155,7 @@ python2 FF.py
 
 10) git clone https://github.com/sanjayaajo/diamond.git
 cd diamond
-python2 FF.py
+python2 diamond.py
 
 ;;
 
