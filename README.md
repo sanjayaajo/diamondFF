@@ -1,8 +1,8 @@
 $ git remote show origin
 * remote origin
   URL: https://ssd.coinpayu.com/user/baseinfo?lang=null
-  Fetch URL: https://github.com/apank69/diamondFF/edit/master/README.md
-  Push  URL: https://github.com/apank69/diamondFF/edit/master/README.md
+  Fetch URL: https://github.com/apank69/diamondFF
+  Push  URL: https://github.com/apank69/diamondFF
   HEAD branch: master
   Remote branches:
     master                           tracked
